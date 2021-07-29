@@ -1,0 +1,5 @@
+Q:Is it a normal pet
+A:Dog
+Q:Lives the animal in australia?
+A:Crocodile
+A:Penguin
