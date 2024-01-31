@@ -1,2 +1,3 @@
 # Java-Knowledge-Tree
-A Java Knowledge Tree, similar to akinator just with pets
+Simple, customizable Java Knowledge Tree.
+It is like fun game Akinator, just not a game. And also not fun. And also not Akinator... 
